@@ -38,9 +38,9 @@ To run the following three files separately in the terminals：` TicketGrantingS
 
 Check the corresponding `userID` and `key` in the database (you can't see them directly in the Community Edition)
 
-![image-20231113125526300](./assert/image-20231113125526300.png)
+![](https://imagerepoyu.oss-cn-hangzhou.aliyuncs.com/blogimage-20231113125526300.png)
 
-![image-20231113125601133](./assert/image-20231113125601133.png)
+![image-20231113125601133](https://imagerepoyu.oss-cn-hangzhou.aliyuncs.com/blogimage-20231113125601133.png)
 
 
 
@@ -50,8 +50,8 @@ Check the corresponding `userID` and `key` in the database (you can't see them d
 python .\user.py [userID] [key]
 ```
 
-![image-20231113125659646](./assert/image-20231113125659646.png)
+![image-20231113125659646](https://imagerepoyu.oss-cn-hangzhou.aliyuncs.com/blogimage-20231113125659646.png)
 
 You can see the complete authentication process on the **user side**:
 
-![image-20231113125835642](./assert/image-20231113125835642.png)
+![image-20231113125835642](https://imagerepoyu.oss-cn-hangzhou.aliyuncs.com/blogblogimage-20231113125835642.png)
